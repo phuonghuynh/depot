@@ -1,0 +1,3 @@
+page[:empty_cart_button].disable
+page[:cart].visual_effect :blind_up, :duration => 1
+#page.hide 'cart'

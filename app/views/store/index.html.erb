@@ -1,0 +1,15 @@
+<% if notice %>
+   <p id="notice"><%= notice %></p>
+<% end %>
+
+<h1>Your pragmatic catalog</h1>
+
+<div id="products" class="entry pagination ajax">
+   <%= render @products %>
+</div>
+<div>
+</div>
+<div id="paginate_footer">
+   <%= render 'paginate_footer' %>
+</div>
+

@@ -1,0 +1,84 @@
+
+
+Started GET "/" for 127.0.0.1 at 2011-05-08 16:35:57 +0700
+  Processing by StoreController#index as HTML
+Completed   in 3ms
+
+ActiveRecord::StatementInvalid (SQLite3::SQLException: no such table: products: SELECT  "products".* FROM "products" ORDER BY title, created_at DESC LIMIT 2 OFFSET 0):
+  app/controllers/store_controller.rb:4:in `index'
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (3.9ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (35.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-05-08 16:36:12 +0700
+  Processing by StoreController#index as HTML
+Completed   in 2ms
+
+ActiveRecord::StatementInvalid (SQLite3::SQLException: no such table: products: SELECT  "products".* FROM "products" ORDER BY title, created_at DESC LIMIT 2 OFFSET 0):
+  app/controllers/store_controller.rb:4:in `index'
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.9ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (36.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-05-08 16:36:42 +0700
+  Processing by StoreController#index as HTML
+Completed   in 2ms
+
+ActiveRecord::StatementInvalid (SQLite3::SQLException: no such table: products: SELECT  "products".* FROM "products" ORDER BY title, created_at DESC LIMIT 2 OFFSET 0):
+  app/controllers/store_controller.rb:4:in `index'
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.9ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (36.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-05-08 16:36:44 +0700
+  Processing by StoreController#index as HTML
+Completed   in 1ms
+
+ActiveRecord::StatementInvalid (SQLite3::SQLException: no such table: products: SELECT  "products".* FROM "products" ORDER BY title, created_at DESC LIMIT 2 OFFSET 0):
+  app/controllers/store_controller.rb:4:in `index'
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.9ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (35.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-05-08 16:36:55 +0700
+  Processing by StoreController#index as HTML
+Completed   in 2ms
+
+ActiveRecord::StatementInvalid (SQLite3::SQLException: no such table: products: SELECT  "products".* FROM "products" ORDER BY title, created_at DESC LIMIT 2 OFFSET 0):
+  app/controllers/store_controller.rb:4:in `index'
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.9ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (35.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-05-08 16:37:01 +0700
+  Processing by StoreController#index as HTML
+Completed   in 2ms
+
+ActiveRecord::StatementInvalid (SQLite3::SQLException: no such table: products: SELECT  "products".* FROM "products" ORDER BY title, created_at DESC LIMIT 2 OFFSET 0):
+  app/controllers/store_controller.rb:4:in `index'
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.9ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.9ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (37.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-05-08 16:39:57 +0700
+  Processing by StoreController#index as HTML
+Completed   in 3ms
+
+ActiveRecord::StatementInvalid (SQLite3::SQLException: no such table: products: SELECT  "products".* FROM "products" ORDER BY title, created_at DESC LIMIT 2 OFFSET 0):
+  app/controllers/store_controller.rb:4:in `index'
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.9ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (37.1ms)
